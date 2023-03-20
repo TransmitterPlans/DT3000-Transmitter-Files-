@@ -1,5 +1,5 @@
-# DT3000-Transmitter-Files-
-These are the files for creating a DT3000 transmitter except microchip controller program.
+# DT6000-Transmitter-Files-
+These are the files for creating a DT6000 transmitter except microchip controller program.
 There are plenty of examples of writing the code, the debouncing part via software is probably the hardest.
 None the less, with determination it can be be done.  If I did it, you can too.
 The hardware has been all worked out for you, take the time to learn the Arduino programming.
