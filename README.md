@@ -9,7 +9,6 @@ None the less if you would like to try programming a chip yourself, there are pl
 With determination it can be be done.  If I did it, you can too.
 The hardware has been all worked out for you, take the time to learn the Arduino programming.
 Many things to make with the microcontroller chip technology once it is understood.
-If your really stuck, just wait awhile, some one will probably post the code some place.
-Or, maybe I can give you a hint if you send me what you have done. 
-GOOD LUCK
+
+
 
