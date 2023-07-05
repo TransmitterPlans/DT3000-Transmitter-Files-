@@ -10,7 +10,7 @@ With determination it can be be done.  If I did it, you can too.
 The hardware has been all worked out for you, take the time to learn the Arduino programming.
 Many things to make with the microcontroller chip technology once it is understood.
 
-The SSTRAN AMT3000 and AMT5000 manuals are lsited as well but are not needed to build the DT6000.
+The SSTRAN AMT3000 and AMT5000 manuals are lsited as well but are not needed to build the DT6000.  You only need the DT6000 Plans file.
 
 
 
